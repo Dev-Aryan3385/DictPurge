@@ -33,6 +33,10 @@ pip install -e .
 ```
 Now, simply typing `DictPurge` in any terminal will launch the tool immediately!
 
+
+<img width="1053" height="743" alt="Screenshot 2026-11-09 021021" src="https://github.com/user-attachments/assets/67019639-4360-4377-a712-9ec2eb201b81" />
+
+
 ---
 
 ## Usage
